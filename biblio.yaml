@@ -487,3 +487,122 @@
   Tags:
   Reseña:
 
+-
+  Título: TCP/IP Illustrated, Volume 1 The Protocols 
+  Autor: W. Richard Stevens
+  Año: 1994
+  ISBN: 0-201-63346-9
+  Idioma: en
+  Formato: Libro
+  Editorial: Addison Wesley
+  Fuente: 
+  Tags: Redes, TCP/IP
+  Reseña: Una guía completa y detallada al conjunto de
+    protocolos TCP/IP.  Utilicza el opular tcpdump para
+    mostrar los protocolos en acción.
+
+-
+  Título: TCP/IP Illustrated, Volume 2 The Implementation
+  Autor: Gary R. Wright, W. Richard Stevens
+  Año: 1995
+  ISBN: 0-201-63346-9
+  Idioma: en
+  Formato: Libro
+  Editorial: Addison Wesley
+  Fuente: 
+  Tags: Redes, TCP/IP
+  Reseña: Una rigurosa explicación de cómo se implementan
+    los protocolos TCP/IP.
+
+-
+  Título: TCP/IP Illustrated, Volume 3 TCP for Transactions, HTTP, NNTP, and the UNIX Domain Protocols
+  Autor: W. Richard Stevens
+  Año: 1996
+  ISBN: 0-201-63495-3
+  Idioma: en
+  Formato: Libro
+  Editorial: Addison Wesley
+  Fuente: 
+  Tags: Redes, TCP/IP
+  Reseña: Una cobertura detallada de los cuatro temas esenciales
+    con los que deben estar familiarizados los programadores
+    TCP/IP y administradores de redes.
+
+-
+  Título: Data Comunications Computer Networkds and Open Systems, Fourth Edition
+  Autor: Fred Halsall
+  Año: 1996
+  ISBN: 0-201-42293-X
+  Idioma: en
+  Formato: Libro
+  Editorial: Addison Wesley
+  Fuente: 
+  Tags: Redes, Datos, Sistemas Abiertos
+  Reseña: Un invaluable recurso tanto para el estudiante como 
+    el profesionista de la computación.
+
+-
+  Título: The Matrix Computer Networks and Conferencing Systems Worldwide
+  Autor: John S. Quarterman
+  Año: 1990
+  ISBN: 1-55558-033-5
+  Idioma: en
+  Formato: Libro
+  Editorial: Digital Press
+  Fuente: 
+  Tags: Redes, Telecomunicaciones
+  Reseña: Una enorme y valiosa compilacion de información.
+
+-
+  Título: Practial UNIX Security
+  Autor: Simson Garfinkel and Gene Spafford
+  Año: 1991
+  ISBN: 0-937175-72-2
+  Idioma: en
+  Formato: Libro
+  Editorial: O'Reilly
+  Fuente: 
+  Tags: Seguridad, UNIX
+  Reseña: Es una guía práctica que describe los problemas
+    los enfoques y los metodos para implementar medidas de seguridad.
+
+-
+  Título: Managing uucp and Usenet
+  Autor: Tim O'Reilly and Grace Todino
+  Año: 1990
+  ISBN: 0-937175-93-4
+  Idioma: en
+  Formato: Libro
+  Editorial: O'Reilly
+  Fuente: 
+  Tags: Redes
+  Reseña: Este manual está orientado a los administradores
+    de sistemas que quieren instalar y administrar aplicaciones
+    UUCP y Usenet.
+
+-
+  Título: IRX Router User's Manual
+  Autor: Livingston Enterprises, Inc.
+  Año: 1994
+  ISBN: 
+  Idioma: en
+  Formato: Libro
+  Editorial: Livingston Enterprises, Inc.
+  Fuente: 
+  Tags: Redes
+  Reseña: Cubre la instalación, el uso y la
+    administración del ruteador.  Incluye RADIUS.
+
+-
+  Título: HP 1000 M/E/F-Series Computers Technical Reference Handbook
+  Autor: HP
+  Año: 1980
+  ISBN: 
+  Idioma: en
+  Formato: Libro
+  Editorial: 
+  Fuente: 
+  Tags: Minicomputadoras
+  Reseña: Una referencia con las especificaciones, la operación
+    y la programación  de la familia HP 1000 de minicomputadoras.
+
