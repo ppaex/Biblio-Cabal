@@ -194,7 +194,7 @@
   Idioma: Inglés
   Formato: Libro
   Editorial: O'Reilly
-  Fuente: 
+  Fuente:
   Tags: Perl, Programación
   Reseña:
 
@@ -206,7 +206,7 @@
   Idioma: Inglés
   Formato: Libro
   Editorial: O'Reilly
-  Fuente: 
+  Fuente:
   Tags: Perl, Programación
   Reseña:
 
@@ -218,7 +218,7 @@
   Idioma: Inglés
   Formato: Libro
   Editorial: Hungry Mindsi, Inc.
-  Fuente: 
+  Fuente:
   Tags: PHP, MySQL, Programación
   Reseña:
 
@@ -230,7 +230,7 @@
   Idioma: Inglés
   Formato: Libro
   Editorial: Manning Publications Co.
-  Fuente: 
+  Fuente:
   Tags: PHP, Zend, Programación
   Reseña:
 
@@ -242,7 +242,7 @@
   Idioma: Inglés
   Formato: Libro
   Editorial: Sams Publishing
-  Fuente: 
+  Fuente:
   Tags: PHP, Programación
   Reseña:
     A practical guide to developing large-scale
@@ -256,7 +256,7 @@
   Idioma: Inglés
   Formato: Libro
   Editorial: The Benjamin/Cummings Publishing Company Inc.
-  Fuente: 
+  Fuente:
   Tags: C++, Programación
   Reseña:
     Un tutorial y referencia  de programación en Turbo C++
@@ -271,7 +271,7 @@
   Idioma: Inglés
   Formato: Libro
   Editorial: O'Reilly Associates
-  Fuente: 
+  Fuente:
   Tags: PHP, Programación
   Reseña:
     Esta referencia de bolsillo enumera
@@ -287,7 +287,7 @@
   Idioma: Inglés
   Formato: Libro
   Editorial: Prentice-Hall International
-  Fuente: 
+  Fuente:
   Tags: C, Programación
   Reseña:
     El libro clásico del lenguage C
@@ -300,7 +300,7 @@
   Idioma: Inglés
   Formato: Libro
   Editorial: Prentice-Hall, Inc.
-  Fuente: 
+  Fuente:
   Tags: C, Programación
   Reseña:
     Una referencia del lenguage C, cubriendo
@@ -316,10 +316,10 @@
   Idioma: Inglés
   Formato: Libro
   Editorial: Wrox Press Ltd.
-  Fuente: 
+  Fuente:
   Tags: C++, Programación
   Reseña:
-    Un rápido tutorial enseña todo lo 
+    Un rápido tutorial enseña todo lo
     necesario en un instante y permite
     escribir programas desde el primer
     día.
@@ -332,7 +332,7 @@
   Idioma: Español
   Formato: Libro
   Editorial: Addison Wesley
-  Fuente: 
+  Fuente:
   Tags: C++, Programación
   Reseña:
     El libro más leído y utilizado mundialmente
@@ -348,7 +348,7 @@
   Idioma: Inglés
   Formato: Libro
   Editorial: Intel Literature
-  Fuente: 
+  Fuente:
   Tags: 8086, Microprocessor, Programación
   Reseña:
     Una introducción a las microcomputadoras,
@@ -414,7 +414,7 @@
 
 -
   Título: An Introduction to Programming in C
-  Autor: Al Kelley, Ira Phol 
+  Autor: Al Kelley, Ira Phol
   Año: 1984
   ISBN: 085368604
   Idioma: EN
@@ -487,3 +487,71 @@
   Tags:
   Reseña:
 
+-
+  Título: Redes Inalámbricas en los Países en Desarrollo
+  Autor: wndw.org
+  Año: 2008
+  ISBN: 9780977809370
+  Idioma: ES
+  Formato: Libro
+  Editorial: Hacker Friendly LLC
+  Fuente: Internet
+  Tags: Redes Inalámbricas, Redes
+  Reseña: Este libro es parte de un conjunto de materiales sobre el mismo tema:
+    Redes Inalámbricas en los Países en Desarrollo. Una guía práctica para
+    planificar y construir infraestructuras de telecomunicaciones de bajo costo.
+
+-
+  Título: Redes Inalámbricas en los Países en Desarrollo
+  Autor: wndw.org
+  Año: 2008
+  ISBN: 9780977809370
+  Idioma: ES
+  Formato: PDF
+  Editorial: Hacker Friendly LLC
+  Fuente: Internet
+  Tags: Redes Inalámbricas, Redes
+  Reseña: Este libro es parte de un conjunto de materiales sobre el mismo tema:
+    Redes Inalámbricas en los Países en Desarrollo. Una guía práctica para
+    planificar y construir infraestructuras de telecomunicaciones de bajo costo.
+
+-
+  Título: LAN Topologies for the HP EtherTwist Family of Products
+  Autor: Hewlett-Packard
+  Año: 1991
+  ISBN:
+  Idioma: EN
+  Formato: Libro
+  Editorial: Hewlett-Packard Company
+  Fuente: Libro
+  Tags: redes, LAN, IEEE 802.3
+  Reseña: El libro es parte del entranamiento y documentación para la
+    familia de productos LAN HP EtherTwist. Provee de las reglas de la
+    IEEE 802.3 10-Mbit/s para las topologías de LAN de grupos de trabajo,
+    LAN de Sitio y LAN de multisitio.
+
+-
+  Título: Technical Reference Guide - Workgroup LANs
+  Autor: Hewlett-Packard
+  Año: 1991
+  ISBN:
+  Idioma: EN
+  Formato: Libro
+  Editorial: Hewlett-Packard Company
+  Fuente: Libro
+  Tags: redes, LAN, Grupos de Trabajo
+  Reseña: El libro se enfoca en la familia de productos HP EtherTwist que es
+    típicamente utilizada en LANs de Grupos de Trabajo.
+
+-
+  Título: Technical Reference Guide - Site LANs and Multisite LANs
+  Autor: Hewlett-Packard
+  Año: 1991
+  ISBN:
+  Idioma: EN
+  Formato: Libro
+  Editorial: Hewlett-Packard Company
+  Fuente: Libro
+  Tags: redes, LAN, Site, Multisite
+  Reseña: El libro se enfoca en la familia de productos HP EtherTwist que es
+    típicamente utilizada en LANs de sitio y multisitio.
