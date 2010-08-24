@@ -79,7 +79,7 @@ def genera(llave, nombre_archivo, template):
     
 genera('Autor', 'autor.html', 'tabla-xhtml')
 genera('Autor', 'autor.xml', 'archivo-xml')
-genera('Autor', 'tabla.html', 'tabla-unica-xhtml')
+genera('Título', 'tabla.html', 'tabla-unica-xhtml')
 genera('Autor', 'tabla2.html', 'tabla-unica-tres-xhtml')
 genera('Autor', 'tabla.tex', 'archivo-tex')
 genera('Autor', 'tablas.tex', 'archivo-tablas-tex')
