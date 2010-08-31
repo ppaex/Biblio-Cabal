@@ -674,3 +674,305 @@
   Tags: redes, LAN, Site, Multisite
   Reseña: El libro se enfoca en la familia de productos HP EtherTwist que es
     típicamente utilizada en LANs de sitio y multisitio.
+
+-
+  Título: The Waite group"'"s Turbo C Bible
+  Autor: Nabajyoti Barkakati
+  Año: 1989
+  ISBN: 0-672-22631-6
+  Idioma: EN
+  Formato: Libro
+  Editorial: Howard W. Sams
+  Fuente: 
+  Tags: C, programación
+  Reseña: Esta obra organiza y simplifica la información contenida
+    en la documentación de Turbo C de Borland.  La guía amigable
+    a las 445 funciones de la biblioteca tiene ejemplos reales para
+    cada rutina.  Cada rutina va precedida de un tutorial de nivel
+    intermedio.
+
+-
+  Título: PHP BIble, 2nd. edition
+  Autor: Tim Converse and Joyce Park
+  Año: 2002
+  ISBN: 0-7645-4955-3
+  Idioma: EN
+  Formato: Libro
+  Editorial: Wiley Publishing
+  Fuente: 
+  Tags: PHP, programación
+  Reseña: Una cobertura completa de PHP 4.2, con todos los trucos,
+    técnicas y advertencias que necesita para empezar rápidamente.
+
+-
+  Título: JAVA in a nutshell, Third edition
+  Autor: David Flanagan
+  Año: 1999
+  ISBN: 1-56592-487-8
+  Idioma: EN
+  Formato: Libro
+  Editorial: O'Reilly
+  Fuente: 
+  Tags: Jave, programación
+  Reseña: Una referencia rápida para los programadores del
+    lenguaje Java, cubriendo las versiones 1.2 y 1.3 de la\
+    plataforma Java 2.  Incluye un vistazo a las APIs esenciales
+    de Java, y la  sintaxis del lenguaje.
+
+-
+  Título: Mandrake Linux 8.1 Reference Manual
+  Autor: MandrakeSoft
+  Año: 2001
+  ISBN: 
+  Idioma: EN
+  Formato: Libro
+  Editorial: 
+  Fuente: 
+  Tags: Mandriva, GNU/Linux
+  Reseña: Una introduccíon al uso de GNU/Linux,
+    y un vistazo más en detalle de aspectos como sistemas
+    de archivos, impresión, solución de problemas, seguridad,
+    configuración de servidores, compilación del kernel y
+    configuración, compilación e instalación de software.
+
+-
+  Título: Learning Red Hat Linux
+  Autor: Bill McCarty
+  Año: 1999
+  ISBN: 1-56592-627-7
+  Idioma: EN
+  Formato: Libro
+  Editorial: 
+  Fuente: 
+  Tags: GNU/Linux, Red Hat
+  Reseña: Una guía al neófito para la instalación, configuración,
+    y uso de la distribución Red Hat, en un estilo sencillo y
+    completo.
+
+-
+  Título: AutoCAD Release 9 Reference Manual
+  Autor: Autodesk, Inc.
+  Año: 1988
+  ISBN: 
+  Idioma: EN
+  Formato: Libro
+  Editorial: 
+  Fuente: 
+  Tags: CAD
+  Reseña: Este manual presenta todo el conjunto de características
+    ofrecias en AutoCAD.
+
+-
+  Título: Open Linux 2.3 Getting Started Guide
+  Autor: Caldera System
+  Año: 1999
+  ISBN: 
+  Idioma: EN
+  Formato: Libro
+  Editorial: 
+  Fuente: 
+  Tags: GNU/Linux
+  Reseña: Cubre la instalación y uso de la ditribución,
+    así como el uso de KDE, conexión a una LAN e internet,
+    e instalación de software.
+
+-
+  Título: UNIX System V/386 Release 4 Network User's and Administrator's Guide
+  Autor: AT&T
+  Año: 1990
+  ISBN: 0-13-950585-7
+  Idioma: EN
+  Formato: Libro
+  Editorial: Prentice-Hall
+  Fuente: 
+  Tags: UNIX
+  Reseña: Dirigido a administradores que configuran y mantienen capacidades
+    UNIX para archivos compartidos y usuarios de servicios remotos 
+    suministrados por aplicaciones de red del sistema V.
+
+-
+  Título: UNIX System V/386 Release 4 User's Reference Manual
+  Autor: AT&T
+  Año: 1991
+  ISBN: 0-13-931510-1
+  Idioma: EN
+  Formato: Libro
+  Editorial: Prentice-Hall
+  Fuente: 
+  Tags: UNIX
+  Reseña: Describe los comandos que constituyen el software básico
+    que corre en un sistema UNIX System V/386.
+
+-
+  Título: The Waite Group's UNIX System V Bible Commands and Utilities
+  Autor: Stephen Prata, Donald Martin
+  Año: 1987
+  ISBN: 0-672-22562-X
+  Idioma: EN
+  Formato: Libro
+  Editorial: SAMS
+  Fuente: 
+  Tags: UNIX
+  Reseña: Divide los comandos en cuatro grupos":" herramientas básicas,
+    herramientas avanzadas, herramientas de administración, y herramientas
+    de desarrolllo de software.
+
+-
+  Título: Using UNIX , Third edition
+  Autor: Peter Kuo
+  Año: 1998
+  ISBN: 0-897-1747-6
+  Idioma: EN
+  Formato: Libro
+  Editorial: Que
+  Fuente: 
+  Tags: UNIX
+  Reseña: Una referencia para usuarios, cubre las principales versiones
+    de UNIX como AIX, BSD, HP-UX, Linux, SCO UNIX, SVR3, SVR4, SVR5,
+    UNIXWare, Solaris de Sun y SunOS.
+
+-
+  Título: sed & awk
+  Autor: Dale Dougherty
+  Año: 1990
+  ISBN: 0-937175-59-5
+  Idioma: EN
+  Formato: Libro
+  Editorial: O'Reilly
+  Fuente: 
+  Tags:  
+  Reseña: Un vistazo y un tutorial de grep, sed y awk, con un
+    capítulo dedicado a expresiones regulares, y capítulos
+    separados para awk y sed incluyendo ejemplos de diversos
+    tipos.
+
+-
+  Título: Mastering Regular Expressions
+  Autor: Jeffrey E. F. Friedl
+  Año: 1997
+  ISBN: 1-56692-257-3
+  Idioma: EN
+  Formato: Libro
+  Editorial: O'Reilly
+  Fuente: 
+  Tags: 
+  Reseña: Este libro enseña com usar expresiones regulares
+    para resolver problemas y obtener lo máximo de las
+    herramientas que suministran expresiones regulares.
+
+-
+  Título: CGI Programming on the World Wide Web
+  Autor: Shishir Gundavaram
+  Año: 1996
+  ISBN: 1-56592-168-2
+  Idioma: EN
+  Formato: Libro
+  Editorial: O'Reilly
+  Fuente: 
+  Tags: Programación
+  Reseña: Orientado a programadores que empiezan con CGI,
+    usando ejemplos en Perl.  Common Gateway Interface surgió
+    como la primera forma de presentar información generada
+    dinámicamente en la red mundial.
+
+-
+  Título: The programmer's PC Sourcebook
+  Autor: Thom Hogan
+  Año: 1988
+  ISBN: 1-55615-118-7
+  Idioma: EN
+  Formato: Libro
+  Editorial: Microsoft Press
+  Fuente: 
+  Tags: Programación
+  Reseña: Una referencia con 500 páginas de
+    información sobre PCs IBM y compatibles,
+    MS-DOS, PC-DOS y OS/2.
+
+-
+  Título: The Peter Norton Programmer's Guide ot the IBM PC
+  Autor: Peter Norton
+  Año: 1985
+  ISBN: 0-14-087-144-6
+  Idioma: EN
+  Formato: Libro
+  Editorial: Microsoft Press
+  Fuente: 
+  Tags: Programación
+  Reseña: La referencia clásica del hardware
+    de las PCs IBM, XT y AT, incluyendo
+    la PCjr.
+
+-
+  Título: PostScript Language Reference Manual
+  Autor: Adobe Systems Incorporated Inc.
+  Año: 1986
+  ISBN: 0-201-10174-2
+  Idioma: EN
+  Formato: Libro
+  Editorial: Addison Wesley
+  Fuente: 
+  Tags:
+  Reseña: Una referencia de este lenguaje orientado
+    a describir la distribución de texto, gráficas e
+    imágenes en páginas impresas.
+
+-
+  Título: PostScript Language Tutorial and Cookbook
+  Autor: Adobe Systems Incorporated Inc.
+  Año: 1986
+  ISBN: 0-201-10174-2
+  Idioma: EN
+  Formato: Libro
+  Editorial: Addison Wesley
+  Fuente: 
+  Tags:
+  Reseña: Una introducción informal al lenguage PostScript
+    y al uso de primitivos gráficos, en un estilo interactivo.
+    Incluye una colección de programas que se ofrecen 
+     como ejemplos del uso de PostScript.
+
+-
+  Título: Understanding PostScript Programming
+  Autor: David A. Holzgang
+  Año: 1987
+  ISBN: 0-89588-396-1
+  Idioma: EN
+  Formato: Libro
+  Editorial: Sybex
+  Fuente: 
+  Tags: 
+  Reseña: Una rigurosa introducción al lenguaje PostScript
+    de descripción de páginas, desde operaciones básicas hasta
+    técnicas avanzadas de manejo de texto y gráficas.  Incluye
+    ejercicios y discusiones detalladas.
+
+-
+  Título: The Design of the UNIX Operating System
+  Autor: Maurice J. Bach
+  Año: 1986
+  ISBN: 0-13-201799-7
+  Idioma: EN
+  Formato: Libro
+  Editorial: Prentice-Hall
+  Fuente: 
+  Tags: UNIX
+  Reseña: Una introducción al sistema, el kernel,
+    el sistema de archivos, llamadas al sistema,
+    procesos, memoria, entrada y salida, comunicación
+    entre procesos.
+
+-
+  Título: The UNIX System User's Handbook
+  Autor: Morris I. Boisky
+  Año: 1985
+  ISBN: 0-13-937764-6
+  Idioma: EN
+  Formato: Libro
+  Editorial: Prentice-Hall
+  Fuente: 
+  Tags: UNIX
+  Reseña: Este manual resume las opciones usadas 
+    frecuentemente de los comandos de shell usados
+    frecuentemente, con información detallada.
+
