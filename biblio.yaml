@@ -488,14 +488,14 @@
   Reseña:
 
 -
-  Título: TCP/IP Illustrated, Volume 1 The Protocols 
+  Título: TCP/IP Illustrated, Volume 1 The Protocols
   Autor: W. Richard Stevens
   Año: 1994
   ISBN: 0-201-63346-9
   Idioma: en
   Formato: Libro
   Editorial: Addison Wesley
-  Fuente: 
+  Fuente:
   Tags: Redes, TCP/IP
   Reseña: Una guía completa y detallada al conjunto de
     protocolos TCP/IP.  Utilicza el opular tcpdump para
@@ -509,7 +509,7 @@
   Idioma: en
   Formato: Libro
   Editorial: Addison Wesley
-  Fuente: 
+  Fuente:
   Tags: Redes, TCP/IP
   Reseña: Una rigurosa explicación de cómo se implementan
     los protocolos TCP/IP.
@@ -522,7 +522,7 @@
   Idioma: en
   Formato: Libro
   Editorial: Addison Wesley
-  Fuente: 
+  Fuente:
   Tags: Redes, TCP/IP
   Reseña: Una cobertura detallada de los cuatro temas esenciales
     con los que deben estar familiarizados los programadores
@@ -536,9 +536,9 @@
   Idioma: en
   Formato: Libro
   Editorial: Addison Wesley
-  Fuente: 
+  Fuente:
   Tags: Redes, Datos, Sistemas Abiertos
-  Reseña: Un invaluable recurso tanto para el estudiante como 
+  Reseña: Un invaluable recurso tanto para el estudiante como
     el profesionista de la computación.
 
 -
@@ -549,7 +549,7 @@
   Idioma: en
   Formato: Libro
   Editorial: Digital Press
-  Fuente: 
+  Fuente:
   Tags: Redes, Telecomunicaciones
   Reseña: Una enorme y valiosa compilacion de información.
 
@@ -561,7 +561,7 @@
   Idioma: en
   Formato: Libro
   Editorial: O'Reilly
-  Fuente: 
+  Fuente:
   Tags: Seguridad, UNIX
   Reseña: Es una guía práctica que describe los problemas
     los enfoques y los metodos para implementar medidas de seguridad.
@@ -574,7 +574,7 @@
   Idioma: en
   Formato: Libro
   Editorial: O'Reilly
-  Fuente: 
+  Fuente:
   Tags: Redes
   Reseña: Este manual está orientado a los administradores
     de sistemas que quieren instalar y administrar aplicaciones
@@ -584,11 +584,11 @@
   Título: IRX Router User's Manual
   Autor: Livingston Enterprises, Inc.
   Año: 1994
-  ISBN: 
+  ISBN:
   Idioma: en
   Formato: Libro
   Editorial: Livingston Enterprises, Inc.
-  Fuente: 
+  Fuente:
   Tags: Redes
   Reseña: Cubre la instalación, el uso y la
     administración del ruteador.  Incluye RADIUS.
@@ -597,11 +597,11 @@
   Título: HP 1000 M/E/F-Series Computers Technical Reference Handbook
   Autor: HP
   Año: 1980
-  ISBN: 
+  ISBN:
   Idioma: en
   Formato: Libro
-  Editorial: 
-  Fuente: 
+  Editorial:
+  Fuente:
   Tags: Minicomputadoras
   Reseña: Una referencia con las especificaciones, la operación
     y la programación  de la familia HP 1000 de minicomputadoras.
@@ -674,3 +674,46 @@
   Tags: redes, LAN, Site, Multisite
   Reseña: El libro se enfoca en la familia de productos HP EtherTwist que es
     típicamente utilizada en LANs de sitio y multisitio.
+
+-
+  Título: Learning the Bash Sell
+  Autor: Cameron Newham y Bill Rosenblatt
+  Año: 1995
+  ISBN: 156592147x
+  Idioma: EN
+  Formato: Libro
+  Editorial: O'Reilly & Associates, Inc.
+  Fuente: Libro
+  Tags: bash, shell, linux
+  Reseña: El libro es la guía definitiva a bash. También, incluye programación
+    en bash desde cero.
+
+-
+  Título: Unix System V Release 4 - User's Reference Manual / System Administrator's Reference Manual for Intel Processors (Commands a-l)
+  Autor: Unix System Saboratories
+  Año: 1992
+  ISBN: 0139513108
+  Idioma: EN
+  Formato: Libro
+  Editorial: Prentice Hall, Inc.
+  Fuente: Libro
+  Tags: unix, system v, administración, intel
+  Reseña: El libro es una fuente completa y detallada sobre System V. Describe
+    todos los comandos de usuario y administración; funciones de librerías de C.
+    Además, describe formatos de archivos, archivos de sistema y archivos en
+    incidentales del sistema.
+
+-
+  Título: Unix System V Release 4 - User's Reference Manual / System Administrator's Reference Manual for Intel Processors (Commands m-z)
+  Autor: Unix System Saboratories
+  Año: 1992
+  ISBN: 0139513280
+  Idioma: EN
+  Formato: Libro
+  Editorial: Prentice Hall, Inc.
+  Fuente: Libro
+  Tags: unix, system v, administración, intel
+  Reseña: El libro es una fuente completa y detallada sobre System V. Describe
+    todos los comandos de usuario y administración; funciones de librerías de C.
+    Además, describe formatos de archivos, archivos de sistema y archivos en
+    incidentales del sistema.
