@@ -1,9 +1,9 @@
 Introducción
 ============
  
-Esta es el primer proyecto de la comunidad de PythonCabal publicado en GitHub. El objetivo de este proyecto es introducirnos en la programación del lenguaje Python con la realización de este escrip relativamente sencillo.
+Esta es el primer proyecto de la comunidad de PythonCabal publicado en GitHub. El objetivo de este proyecto es introducirnos en la programación del lenguaje Python con la realización de este guión relativamente sencillo.
 
-La idea es que en base a un archivo formateado en Yaml que contendra los libros de los que disponemos en LinuxCabal, se auto generen porciones de código HTML para ser insertadas dentro de otras paginas. Este código estará compuesto principalmente por tablas que estarán ordenadas, en base a una característica como año, autor, editorial o auguna otra.
+La idea es que en base a un archivo formateado en YAML que contendrá los libros de los que disponemos en LinuxCabal, se auto generen porciones de código HTML para ser insertadas dentro de otras paginas. Este código estará compuesto principalmente por tablas que estarán ordenadas, en base a una característica como año, autor, editorial o alguna otra.
 
 Esperamos tus aportaciones y sugerencias!!!
 
