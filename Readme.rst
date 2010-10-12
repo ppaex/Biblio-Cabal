@@ -23,6 +23,11 @@ Se implementó un sistema de plantillas con la intención de generar diferentes 
 
 Se utiliza el parámetro key del método sort de las listas para escoger el campo a ordenar. Usamos una variante de cadenas que regresa diferente valor cada vez que se lee. Las platillas utiliza comentarios en sus respectivos lenguajes para separar en 3 partes: Cabeza, cuerpo y pié. Cuerpo es la parte que tiene componentes que se repiten, como el renglón de una tabla y puede tener partes alternantes, que también se indican por medio de comentarios. Los valores reemplazables se definen de acuerdo al lenguaje de salida para evitar invalidar el documento. Los datos de entrada a la plantilla se traducen de acuerdo estrictamente al estándar utilizado.
 
+Plantillas
+==========
+
+El sistema de plantillas se aproxima a ellas desde el punto de vista del diseñador. La plantilla muestra código expecífico al lenguaje para el que será destinada. BiblioCabal requiere, solamente, unos marcadores; los cuales se definen de manera compatible al lenguaje nativo a la plantilla. De esta manera, el diseñador se enfoca en diseñar la plantilla en su propio lenguaje; sin alienarse a otro.
+
 Uso
 ===
 
@@ -41,7 +46,7 @@ tabla.tex     autor               archivo-tex
 tablas.tex    autor               archivo-tablas-tex
 ===========   ============        ======================
 
-Para la pagina de la biblioteca de LinuxCabal A.C. utilizamos el tercer archivo tabla.html, ordenado por titulo. Este archivo contiene solamente un elemento tabla en xhtml, el contenido es aplicado a una `plantilla estándar`__ de PHP, a la cual se le agrega el siguiente renglón: 
+Para la pagina de la biblioteca de LinuxCabal A.C. utilizamos el tercer archivo tabla.html, ordenado por titulo. Este archivo contiene solamente un elemento tabla en XHTML1 Strict, el contenido es aplicado a una `plantilla estándar`__ PHP, a la cual se le agrega el siguiente renglón: 
 
  include ("./tabla.html" );
 
