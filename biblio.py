@@ -39,8 +39,10 @@ def carga_plantilla( template ):
     return inicio, template, final
 
 def traducir_contenido( nombre_archivo, obra ):
-    'Convierte caracteres si hace falta según el formato.'
+    ''''Regresa obra con algunos caracteres convertidos
+    si hace falta según el formato.'''
 
+    obra = obra.copy()
     # Convertir & para TeX
     if '.tex' in nombre_archivo:
         for key, item in obra.items():
@@ -51,6 +53,13 @@ def traducir_contenido( nombre_archivo, obra ):
         for key, item in obra.items():
           if type(item) is str:
             obra[key] = obra[key].replace( '&', '&amp;' )
+    # Convertir & y < para [X]HTML
+    if '.html' in nombre_archivo:
+        for key, item in obra.items():
+          if type(item) is str:
+            obra[key] = obra[key].replace( '&', '&amp;' )
+            obra[key] = obra[key].replace( '<', '&lt;' )
+    return obra
 
 
 # abrir base de datos (yaml)
@@ -73,7 +82,7 @@ def genera(llave, nombre_archivo, template):
 
     print( inicio, file = salida)
     for obra in obras:
-        traducir_contenido( nombre_archivo, obra )
+        obra = traducir_contenido( nombre_archivo, obra )
         print(template.format( **obra ), file = salida)
     print( final, file = salida)
     
